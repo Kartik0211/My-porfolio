@@ -712,7 +712,7 @@ footer {
         display: block;
         position: absolute;
         top: 15px;
-        right: 15px;
+        left: 15px;
         background: none;
         border: none;
         font-size: 1.5rem;
